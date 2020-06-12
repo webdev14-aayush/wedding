@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: #fccde2;
+}
+
+.invitation{
+   
+    width:60%;
+   
+    height:100%;
+   
+   padding: 250px;
+}
+
+.omg{
+    height: 50px;
+    
+    width: 100%;
+    
+    background-color: rgb(20, 229, 237);
+    
+    position: fixed;
+    
+    
+    
+    margin-top: 0;
+}
+
+button{
+    background-color: #035aa6;
+    
+    color: white;
+}
+
+.click{
+    text-align: center;
+    
+    padding-top: 15%;
+    
+    color: #e61c5d;
+    
+}
+
+.click:hover{
+    background-color: aqua;
+    
+    font-family: fantasy;
+}
+
+hr{
+    background-color: #e61c5d;
+    
+    height: 20px;
+}
+h1{
+    text-align: center;
+    
+    color: #e61c5d;
+    
+    font-family: sans-serif;
+    
+    background-color: #1f88e2;
+}
+
+form{
+    padding-left: 20%;
+    
+    font-family: fantasy;
+    
+    color: #035aa6;
+    
+    font-style: oblique;
+}
+
+.fo{
+    
+    font-size: 100px;;
+
+    font-family: fantasy;
+    
+    color: #1c33e6;
+}
+
+.lo{
+    font-size: 100px;;
+
+    font-family: fantasy;
+    
+    color: #1c33e6;
+    
+}
